@@ -11,7 +11,7 @@ Newsify is a misinformation-filtering news platform that verifies news articles 
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend & Database**: Firebase
-- **APIs Used**: News API, Image Verification API (if applicable)
+- **APIs Used**: News API
 
 ## Installation & Setup
 1. Clone the repository:
