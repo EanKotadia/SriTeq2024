@@ -1,8 +1,8 @@
-# Newsify
+# Newsify ShriTeq2024 V0
 
-Newsify is a misinformation-filtering news platform that verifies news articles and images using AI and trusted sources. It aggregates news from multiple reliable publications and cross-checks the validity of media content. This project was developed for a hackathon in 2024 and is fully functional.
+Newsify is a misinformation-filtering news platform that verifies news articles and images using AI and trusted sources. It aggregates news from multiple reliable publications and cross-checks the validity of media content. This project was developed for a hackathon in 2024 and is fully functional. Made by Vihaan Vashishtha, Chetanya Singh and Ean Kotadia in 9th grade for Shri Ram's Flagship Shri Teq Event.
 
-
+## Newsify Remade: [Github](https://github.com/EanKotadia/Newsify)
 ## Yt Video: [Newsify Video](https://www.youtube.com/watch?v=fQQC8_rNQTc&t=13140s)
 
 ## Features
